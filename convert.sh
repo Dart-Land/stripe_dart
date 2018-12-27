@@ -2,7 +2,8 @@
 
 # dart_js_facade_gen lib/src/promise.d.ts > lib/src/promise.dart
 
-dart_js_facade_gen lib/src/es6_shim/index.d.ts > lib/src/es6_shim/shim.dart
+dart_js_facade_gen lib/src/es6_shim/ts3.1/index.d.ts > lib/src/es6_shim/ts3.1/ts3.1.dart
+dart_js_facade_gen lib/src/es6_shim/index.d.ts > lib/src/es6_shim/es6_shim.dart
 dart_js_facade_gen lib/src/promise/promise.d.ts > lib/src/promise/promise.dart
 dart_js_facade_gen lib/src/stripe/index.d.ts > lib/src/stripe/stripe.dart
 dart_js_facade_gen lib/src/stripe_checkout/index.d.ts > lib/src/stripe_checkout/stripe_checkout.dart

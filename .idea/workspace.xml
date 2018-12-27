@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8994bd2-c579-442e-9f87-4262fae17473" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/checkin.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/checkin.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/convert.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert.sh" beforeDir="false" afterPath="$PROJECT_DIR$/convert.sh" afterDir="false" />
     </list>
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="convert.cmd" pinned="false" current-in-tab="true">
+      <file leaf-file-name="convert.cmd" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/convert.cmd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="224">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -26,8 +27,17 @@
       <file leaf-file-name="convert.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/convert.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="288">
+              <caret line="18" selection-start-line="4" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkin.cmd" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/checkin.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -79,10 +89,11 @@
         <option value="$PROJECT_DIR$/lib/convert.sh" />
         <option value="$PROJECT_DIR$/lib/convert.cmd" />
         <option value="$PROJECT_DIR$/lib/src/es6_shim/promise.dart" />
-        <option value="$PROJECT_DIR$/checkin.cmd" />
         <option value="$PROJECT_DIR$/lib/src/promise/promise.dart" />
+        <option value="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/ts31.dart" />
         <option value="$PROJECT_DIR$/convert.sh" />
         <option value="$PROJECT_DIR$/convert.cmd" />
+        <option value="$PROJECT_DIR$/checkin.cmd" />
       </list>
     </option>
   </component>
@@ -108,7 +119,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/lib/src/es6-shim/package.json" />
+      <path value="$PROJECT_DIR$/lib/src/es6_shim/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -142,6 +153,21 @@
               <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stripe-dart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_shim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stripe-dart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="es6_shim" type="462c0819:PsiDirectoryNode" />
+              <item name="ts3.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,12 +285,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545930878347</updated>
-      <workItem from="1545930893415" duration="3085000" />
+      <workItem from="1545930893415" duration="3993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3085000" />
+    <option name="totallyTimeSpent" value="3993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -375,16 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/es6-shim/ts3.1/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkin.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/es6_promisify/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -394,17 +410,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/ts3.1/ts31.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+          <folding>
+            <element signature="e#39#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/ts3.1/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/convert.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="4" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/convert.cmd">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkin.cmd">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
