@@ -1,6 +1,9 @@
-// TODO: Put public facing types in this file.
+import 'dart:js';
+import 'dart:js_util';
+import 'dart:html';
 
-/// Checks if you are awesome. Spoiler: you are.
-class Awesome {
-  bool get isAwesome => true;
+
+JsObject GetStripeJS(){
+  
+  return null;
 }
