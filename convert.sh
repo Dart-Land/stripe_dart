@@ -3,7 +3,7 @@
 # dart_js_facade_gen lib/src/promise.d.ts > lib/src/promise.dart
 
 dart_js_facade_gen lib/src/es6_promisify/index.d.ts > lib/src/es6_promisify/es6_promisify.dart
-dart_js_facade_gen lib/src/es6_shim/index.d.ts > lib/src/es6_shim/promise.dart
+dart_js_facade_gen lib/src/es6_shim/index.d.ts > lib/src/es6_shim/shim.dart
 dart_js_facade_gen lib/src/promise/promise.d.ts > lib/src/promise/promise.dart
 dart_js_facade_gen lib/src/stripe/index.d.ts > lib/src/stripe/stripe.dart
 dart_js_facade_gen lib/src/stripe_checkout/index.d.ts > lib/src/stripe_checkout/stripe_checkout.dart
@@ -16,4 +16,3 @@ dart_js_facade_gen lib/src/stripejs/token.d.ts > lib/src/stripejs/token.dart
 dart_js_facade_gen lib/src/stripejs/element.d.ts > lib/src/stripejs/element.dart
 dart_js_facade_gen lib/src/stripejs/source.d.ts > lib/src/stripejs/source.dart
 dart_js_facade_gen lib/src/stripejs/payment.d.ts > lib/src/stripejs/payment.dart
-

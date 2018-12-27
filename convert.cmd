@@ -1,5 +1,5 @@
 
-dart_js_facade_gen lib/src/es6_promisify/index.d.ts > lib/src/es6_promisify/es6_promisify.dart
+dart_js_facade_gen lib\src\es6_promisify\index.d.ts > lib\src\es6_promisify\es6_promisify.dart
 dart_js_facade_gen lib\src\es6_shim\index.d.ts > lib\src\es6_shim\shim.dart
 dart_js_facade_gen lib\src\promise\promise.d.ts > lib\src\promise\promise.dart
 dart_js_facade_gen lib\src\stripe\index.d.ts > lib\src\stripe\stripe.dart
