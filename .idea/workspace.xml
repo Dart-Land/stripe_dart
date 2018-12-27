@@ -4,6 +4,10 @@
     <list default="true" id="b8994bd2-c579-442e-9f87-4262fae17473" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/convert.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/convert.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert.sh" beforeDir="false" afterPath="$PROJECT_DIR$/convert.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_promisify/es6-promisify-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_promisify/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_promisify/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_promisify/tslint.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="convert.cmd" pinned="false" current-in-tab="false">
+      <file leaf-file-name="convert.cmd" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/convert.cmd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" selection-start-line="1" selection-end-line="15" />
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convert.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="convert.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/convert.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -81,8 +85,8 @@
         <option value="$PROJECT_DIR$/lib/src/es6_shim/promise.dart" />
         <option value="$PROJECT_DIR$/checkin.cmd" />
         <option value="$PROJECT_DIR$/lib/src/promise/promise.dart" />
-        <option value="$PROJECT_DIR$/convert.cmd" />
         <option value="$PROJECT_DIR$/convert.sh" />
+        <option value="$PROJECT_DIR$/convert.cmd" />
       </list>
     </option>
   </component>
@@ -142,13 +146,6 @@
               <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stripe-dart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_promisify" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,12 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545930878347</updated>
-      <workItem from="1545930893415" duration="2835000" />
+      <workItem from="1545930893415" duration="2983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2835000" />
+    <option name="totallyTimeSpent" value="2983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -392,17 +389,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert.cmd">
+    <entry file="file://$PROJECT_DIR$/lib/src/es6_promisify/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" selection-start-line="1" selection-end-line="15" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/convert.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
