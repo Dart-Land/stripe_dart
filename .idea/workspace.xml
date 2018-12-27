@@ -2,9 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8994bd2-c579-442e-9f87-4262fae17473" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkin.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/checkin.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/convert.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert.sh" beforeDir="false" afterPath="$PROJECT_DIR$/convert.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/es6-shim-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/es6-shim-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/es6_shim/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-checkout/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-checkout/stripe-checkout-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-checkout/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-checkout/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v2/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v2/stripe-v2-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v2/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v2/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v3/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v3/stripe-v3-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v3/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe-v3/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe/stripe-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripe/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/customer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/payment.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/shipping.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/source.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/stripejs-tests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/token.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typeScript/stripejs/tslint.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +55,8 @@
       <file leaf-file-name="convert.cmd" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/convert.cmd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="304">
+              <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -27,8 +64,8 @@
       <file leaf-file-name="convert.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/convert.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" selection-start-line="4" selection-end-line="18" />
+            <state relative-caret-position="352">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -36,8 +73,8 @@
       <file leaf-file-name="checkin.cmd" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/checkin.cmd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="48">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -89,10 +126,10 @@
         <option value="$PROJECT_DIR$/lib/convert.sh" />
         <option value="$PROJECT_DIR$/lib/convert.cmd" />
         <option value="$PROJECT_DIR$/lib/src/es6_shim/promise.dart" />
-        <option value="$PROJECT_DIR$/lib/src/promise/promise.dart" />
         <option value="$PROJECT_DIR$/lib/src/es6_shim/ts3.1/ts31.dart" />
-        <option value="$PROJECT_DIR$/convert.sh" />
+        <option value="$PROJECT_DIR$/lib/src/promise/promise.dart" />
         <option value="$PROJECT_DIR$/convert.cmd" />
+        <option value="$PROJECT_DIR$/convert.sh" />
         <option value="$PROJECT_DIR$/checkin.cmd" />
       </list>
     </option>
@@ -119,7 +156,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/lib/src/es6_shim/package.json" />
+      <path value="$PROJECT_DIR$/lib/src/es6-shim/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -159,15 +196,7 @@
               <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_shim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stripe-dart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stripe-dart" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es6_shim" type="462c0819:PsiDirectoryNode" />
-              <item name="ts3.1" type="462c0819:PsiDirectoryNode" />
+              <item name="es6-shim" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,12 +314,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545930878347</updated>
-      <workItem from="1545930893415" duration="3993000" />
+      <workItem from="1545930893415" duration="5737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3993000" />
+    <option name="totallyTimeSpent" value="5737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -364,16 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="652" column="13" selection-start-line="652" selection-start-column="8" selection-end-line="652" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/es6-shim-tests.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -391,13 +410,6 @@
           <folding>
             <element signature="e#99#140#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/promise/promise.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -420,27 +432,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/stripe/stripe.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/promise/promise.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/stripejs/element.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#41#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/stripejs/customer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/ts3.1/index.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert.sh">
+    <entry file="file://$PROJECT_DIR$/lib/src/es6_shim/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" selection-start-line="4" selection-end-line="18" />
+        <state relative-caret-position="5664">
+          <caret line="652" column="13" selection-start-line="652" selection-start-column="8" selection-end-line="652" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/convert.cmd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="304">
+          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/checkin.cmd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
